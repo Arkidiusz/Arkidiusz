@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arkadiusz</h1>
-<h3 align="center">DevOps Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on [backpack-calculator](https://github.com/Arkidiusz/backpack-calculator)
 
