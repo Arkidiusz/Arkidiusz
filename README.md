@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [backpack-calculator](https://github.com/Arkidiusz/backpack-calculator)
 
-- 👯 I’m looking to collaborate on [PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding)
-
 - 👨‍💻 All of my projects are available at [https://arkidiusz.github.io/](https://arkidiusz.github.io/)
 
 - 📫 How to reach me **arkadiusz.kupracz@gmail.com**
